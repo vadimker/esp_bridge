@@ -3,11 +3,11 @@
 %
 
 % Parameters for the other broker
-config mqtt_host	martinshome
-%config mqtt_user	test
-%config mqtt_password	secret
+config mqtt_host	srv2.clusterfly.ru
+%config mqtt_user	user_5aefe80f
+%config mqtt_password	pass_d682f0b5
 
-config speed		160
+config speed		80
 
 % The initialization, this is done once after booting
 on init
